@@ -9,3 +9,9 @@ https://github.com/jephianlin/LAwithNumPy
 https://github.com/azer89/Numerical_Python
 https://github.com/flatiron-school/ds-linear_algebra
 https://github.com/campinas-glucianog/linear_algebra_and_optimization_for_ml
+https://github.com/ginkgo-project/ginkgo
+https://github.com/TiffanyHizon/Linear_Algebra_58051
+https://github.com/bvanderlei/jupyter-guide-to-linear-algebra
+https://github.com/gmayer6/LinearAlgebraLectureNotes
+https://github.com/PythonCoderUnicorn/Linear-Algebra-Python
+https://github.com/millern901/Computational-Linear-Algebra
