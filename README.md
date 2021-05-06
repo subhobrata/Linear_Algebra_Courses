@@ -1,5 +1,10 @@
 # Linear_Algebra_Courses
 
+https://github.com/davestroud/Linear_Algebra_SMU
+https://teambasedinquirylearning.github.io/linear-algebra/frontmatter.html
+https://github.com/TeamBasedInquiryLearning/linear-algebra
+https://samyarmodabber.github.io/linear-algebra/chapters/intro.html#
+https://github.com/samyarmodabber/linear-algebra
 https://github.com/MacroAnalyst/Linear_Algebra_With_Python
 https://github.com/liuyubobobo/Play-with-Linear-Algebra
 https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06
