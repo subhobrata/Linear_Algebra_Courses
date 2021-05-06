@@ -1,5 +1,6 @@
 # Linear_Algebra_Courses
 
+https://github.com/ilyastartsdata/linear_algebra
 https://github.com/davestroud/Linear_Algebra_SMU
 https://teambasedinquirylearning.github.io/linear-algebra/frontmatter.html
 https://github.com/TeamBasedInquiryLearning/linear-algebra
